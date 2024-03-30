@@ -2,6 +2,7 @@
   "name": "reactor",
   "version": "0.0.0",
   "description": "Reactive state manager based on Flutter Bloc library",
+  "private": true,
   "scripts": {
     "format": "npm run format --ws",
     "lint": "npm run lint --ws"
