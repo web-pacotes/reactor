@@ -7,6 +7,8 @@
     <list default="true" id="bdce8d2f-760f-41d1-a143-fa2ae436f0de" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/reactor-svelte/.github/workflows/publish-docs.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/publish-docs.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/reactor-svelte/.github/workflows/publish-npm.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/publish-npm.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +47,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/packages" />
     </key>
   </component>
@@ -57,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711791669655</updated>
       <workItem from="1711791671236" duration="41000" />
-      <workItem from="1711799932392" duration="6042000" />
+      <workItem from="1711799932392" duration="7332000" />
     </task>
     <servers />
   </component>

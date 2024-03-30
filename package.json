@@ -4,6 +4,8 @@
   "description": "Reactive state manager based on Flutter Bloc library",
   "private": true,
   "scripts": {
+    "release": "changeset",
+    "publish": "changeset publish",
     "format": "npm run format --ws",
     "lint": "npm run lint --ws"
   },
