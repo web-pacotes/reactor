@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bdce8d2f-760f-41d1-a143-fa2ae436f0de" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/reactor-svelte/.changeset/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/packages/reactor-svelte/.changeset/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactor-svelte/.changeset/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/reactor-svelte/.changeset/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactor-svelte/.eslintignore" beforeDir="false" afterPath="$PROJECT_DIR$/packages/reactor-svelte/.eslintignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactor-svelte/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/packages/reactor-svelte/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactor-svelte/.github/workflows/publish-docs.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/reactor-svelte/.github/workflows/publish-docs.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactor-svelte/.github/workflows/publish-npm.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/reactor-svelte/.github/workflows/publish-npm.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactor-svelte/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/packages/reactor-svelte/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactor-svelte/.prettierignore" beforeDir="false" afterPath="$PROJECT_DIR$/packages/reactor-svelte/.prettierignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactor-svelte/.prettierrc" beforeDir="false" afterPath="$PROJECT_DIR$/packages/reactor-svelte/.prettierrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactor-svelte/.swcrc" beforeDir="false" afterPath="$PROJECT_DIR$/packages/reactor-svelte/.swcrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactor-svelte/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/packages/reactor-svelte/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactor-svelte/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/packages/reactor-svelte/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactor-svelte/example/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/reactor-svelte/example/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactor-svelte/example/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/reactor-svelte/example/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactor-svelte/example/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/reactor-svelte/example/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactor-svelte/hooks/INSTALL" beforeDir="false" afterPath="$PROJECT_DIR$/packages/reactor-svelte/hooks/INSTALL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactor-svelte/hooks/pre-push" beforeDir="false" afterPath="$PROJECT_DIR$/packages/reactor-svelte/hooks/pre-push" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactor-svelte/jest.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/reactor-svelte/jest.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactor-svelte/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/reactor-svelte/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactor-svelte/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/reactor-svelte/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactor-svelte/setup.md" beforeDir="false" afterPath="$PROJECT_DIR$/packages/reactor-svelte/setup.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactor-svelte/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/reactor-svelte/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactor-svelte/src/sum.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/reactor-svelte/src/sum.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactor-svelte/src/sum.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/reactor-svelte/src/sum.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactor-svelte/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/reactor-svelte/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2eP20R7UFqQXAgOz2iEtoSWKhq9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "javascript.nodejs.core.library.configured.version": "20.0.0",
+    "javascript.nodejs.core.library.typings.version": "20.0.0",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/home/freitas/Workspace/Projects/web-pacotes/reactor/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/packages" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdce8d2f-760f-41d1-a143-fa2ae436f0de" name="Changes" comment="" />
+      <created>1711791669655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711791669655</updated>
+      <workItem from="1711791671236" duration="41000" />
+      <workItem from="1711799932392" duration="5870000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

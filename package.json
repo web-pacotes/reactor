@@ -1,0 +1,33 @@
+{
+  "name": "reactor",
+  "version": "0.0.0",
+  "description": "Reactive state manager based on Flutter Bloc library",
+  "scripts": {
+    "format": "npm run format --ws",
+    "lint": "npm run lint --ws"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "keywords": [
+    "typescript",
+    "svelte",
+    "state",
+    "manager",
+    "reactivity",
+    "store",
+    "flutter",
+    "bloc",
+    "reactor-svelte"
+  ],
+  "author": "web-pacotes",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web-pacotes/reactor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/web-pacotes/reactor/issues"
+  },
+  "homepage": "https://github.com/web-pacotes/reactor#readme"
+}
