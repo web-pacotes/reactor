@@ -46,8 +46,8 @@ describe('reactor', () => {
 		render(ReactorListener, {
 			props: {
 				// @ts-expect-error ignore generics check
-				reactor: reactor, listener: () => {
-				}
+				reactor: reactor,
+				listener: () => {}
 			}
 		});
 

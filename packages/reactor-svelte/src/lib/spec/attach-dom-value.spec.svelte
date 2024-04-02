@@ -7,4 +7,4 @@
 	const value = callback();
 </script>
 
-<div id="{key}">{value}</div>
+<div id={key}>{value}</div>

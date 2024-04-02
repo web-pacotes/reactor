@@ -8,8 +8,6 @@ export default defineConfig({
 		environment: 'jsdom',
 		// Required to load real onMount implementation
 		// https://github.com/vitest-dev/vitest/issues/2834#issuecomment-1439576110
-		alias: [
-			{ find: /^svelte$/, replacement: 'svelte/internal' }
-		]
+		alias: [{ find: /^svelte$/, replacement: 'svelte/internal' }]
 	}
 });
