@@ -5,6 +5,7 @@ import {
 	type Unsubscriber,
 	type Writable
 } from 'svelte/store';
+import { allowDuplicatesStore } from './store.js';
 
 /**
  * A functional interface for emitting values.
@@ -91,7 +92,7 @@ export abstract class Reactor<E, S> {
 		this.initialState = initialState;
 		this.state = initialState;
 		this.states = writable(initialState);
-		this.events = writable();
+		this.events = allowDuplicatesStore();
 		this.emitter = new WritableEmitter(this.states);
 		this.subscribe = this.states.subscribe;
 	}
