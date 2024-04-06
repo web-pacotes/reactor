@@ -9,12 +9,12 @@ Reactive state manager based on Flutter Bloc library
 ## What?
 
 For the last couple of months I've been working on web frontend projects (primarily with Svelte),
-and been struggling to find a state manager to clearly separates domain/application logic from UI.
+and been struggling to find a state manager that clearly separates domain/application logic of UI.
 
-One of the solutions I've worked with that achieves it is the [bloc library](https://bloclibrary.dev/). I like it for
-three main reasons:
+One of the solutions I've worked with in the past that achieves it is the [bloc library](https://bloclibrary.dev/). I
+really like it for three main reasons:
 
-- it's declarative
+- it's declarative and reactive
 - provides a clean API
 - segregates UI actions and updates in two basic elements: events and state
 
