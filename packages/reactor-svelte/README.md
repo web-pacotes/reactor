@@ -19,8 +19,8 @@ Now create your first reactor:
 ```typescript
 // counter-reactor.ts
 
-type CounterEvent = 'inc' | 'dec'
-type CounterState = number
+type CounterEvent = 'inc' | 'dec';
+type CounterState = number;
 
 export class CounterReactor extends Reactor<CounterEvent, CounterState> {
 	constructor() {
