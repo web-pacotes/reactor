@@ -50,6 +50,7 @@ export class CounterReactor extends Reactor<CounterEvent, CounterState> {
 On your Svelte component/page, instantiate the reactor and react to state changes:
 
 ```sveltehtml
+// counter.svelte
 
 <script lang="ts">
 	import { CounterReactor } from './counter-reactor';
