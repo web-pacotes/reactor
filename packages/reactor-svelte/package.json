@@ -14,9 +14,7 @@
 		"docs": "typedoc",
 		"docs:publish": "typedoc && gh-pagez -d docs -t true",
 		"lint": "prettier --check . && eslint . --fix",
-		"format": "prettier --write .",
-		"release": "changeset",
-		"publish": "npm run build && npm run package && changeset publish"
+		"format": "prettier --write ."
 	},
 	"exports": {
 		".": {

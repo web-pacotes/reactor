@@ -5,8 +5,8 @@
   "private": true,
   "scripts": {
     "build": "npm run build --ws",
-    "release": "npm run release --ws",
-    "publish": "npm run publish --ws",
+    "release": "changeset",
+    "publish": "npm run build --ws && changeset publish",
     "docs": "npm run docs --ws",
     "docs:publish": "npm run docs:publish --ws",
     "format": "npm run format --ws",
