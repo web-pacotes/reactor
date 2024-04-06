@@ -2,7 +2,7 @@
 
 Reactive state manager based on Flutter Bloc library
 
-<p style="text-align: center">
+<p align="center">
     <img src="art/reactor-logo.webp" alt="library logo"/>
 </p>
 
