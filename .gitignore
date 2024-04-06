@@ -25,3 +25,5 @@ docs/
 .idea/**/sonarlint/
 .idea/**/sonarIssues.xml
 .idea/$CACHE_FILE$
+
+.*~$
