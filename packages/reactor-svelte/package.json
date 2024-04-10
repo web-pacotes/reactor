@@ -1,6 +1,6 @@
 {
 	"name": "@web-pacotes/reactor-svelte",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "Reactive state manager based on Flutter Bloc library using Svelte stores",
 	"svelte": "./dist/index.js",
 	"types": "./dist/index.d.ts",
