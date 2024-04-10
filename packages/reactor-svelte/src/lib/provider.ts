@@ -1,5 +1,6 @@
 import { getContext, setContext } from 'svelte';
 import type { Reactor } from './reactor.js';
+import { TypedClass } from './typed.js';
 
 /**
  * Resolves a {@link Reactor} instance that has been provided by the parent component
@@ -11,8 +12,8 @@ import type { Reactor } from './reactor.js';
  *
  * @param type - prototype of the subclass that extends {@link Reactor}.
  */
-export function resolve<E, S>(type: typeof Reactor<E, S>) {
-	return getContext<Reactor<E, S>>(type);
+export function resolve<T>(type: TypedClass<T>) {
+	return getContext<T>(type);
 }
 
 /**

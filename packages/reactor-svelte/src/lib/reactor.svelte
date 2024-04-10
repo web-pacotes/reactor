@@ -4,11 +4,12 @@
 	import { onMount } from 'svelte';
 	import { type Reactor } from './reactor.js';
 	import { resolve } from './provider.js';
+	import { TypedClass } from './typed.js';
 
 	/**
 	 * The reactor whose state is being subscribed.
 	 */
-	export let reactor: Reactor<E, S> | typeof Reactor<E, S>;
+	export let reactor: Reactor<E, S> | TypedClass<Reactor<E, S>>;
 
 	/**
 	 * A callback for subscribing to new state changes.
