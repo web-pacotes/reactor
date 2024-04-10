@@ -3,7 +3,7 @@
 Reactive state manager based on Flutter Bloc library using Svelte stores
 
 <p align="center">
-    <img src="../../art/reactor-svelte-logo.webp" alt="library logo"/>
+    <img src="https://raw.githubusercontent.com/web-pacotes/reactor/master/art/reactor-svelte-logo.webp" alt="library logo"/>
 </p>
 
 ![npm version](https://badgen.net/npm/v/@web-pacotes/reactor-svelte) ![npm total downloads](https://badgen.net/npm/dt/@web-pacotes/reactor-svelte) ![bundlephobia bundle size](https://badgen.net/bundlephobia/min/@web-pacotes/reactor-svelte)
