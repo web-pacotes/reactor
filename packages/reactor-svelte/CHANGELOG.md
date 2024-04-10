@@ -1,5 +1,11 @@
 # @web-pacotes/reactor-svelte
 
+## 0.0.3
+
+### Patch Changes
+
+- ea7060b: fix: `resolve` not being able to infer state of multiple parameter constructor reactor. see https://github.com/web-pacotes/reactor/pull/4 for a detailed explanation on this issue
+
 ## 0.0.2
 
 ### Patch Changes
