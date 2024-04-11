@@ -1,5 +1,12 @@
 # @web-pacotes/reactor-svelte
 
+## 0.0.4
+
+### Patch Changes
+
+- d82516c: fix(reactor-svelte): import TypedClass as type otherwise vite bundler won't remove imports during transform phase
+  https://github.com/web-pacotes/reactor/pull/7
+
 ## 0.0.3
 
 ### Patch Changes
