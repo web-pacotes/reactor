@@ -1,6 +1,6 @@
 import { getContext, setContext } from 'svelte';
 import type { Reactor } from './reactor.js';
-import { TypedClass } from './typed.js';
+import type { TypedClass } from './typed.js';
 
 /**
  * Resolves a {@link Reactor} instance that has been provided by the parent component

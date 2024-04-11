@@ -4,7 +4,7 @@
 	import { onMount } from 'svelte';
 	import { type Reactor } from './reactor.js';
 	import { resolve } from './provider.js';
-	import { TypedClass } from './typed.js';
+	import type { TypedClass } from './typed.js';
 
 	/**
 	 * The reactor whose state is being subscribed.
