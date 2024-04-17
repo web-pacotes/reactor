@@ -72,7 +72,8 @@ On your Svelte component/page, instantiate the reactor and react to state change
 Currently, the package provides APIs for:
 
 - implementing new reactors
-- providing reactors to child components ([ReactorProvider](src/lib/provider.svelte))
+- providing one or more reactors to child
+  components ([ReactorProvider](src/lib/provider.svelte), [MultiReactorProvider](src/lib/multi-provider.svelte))
 - resolving reactors from parent components ([resolve](src/lib/provider.ts))
 - listening to reactor state changes ([ReactorListener](src/lib/reactor.svelte))
 
@@ -80,7 +81,6 @@ Currently, the package provides APIs for:
 
 In the future I plan to bring:
 
-- providing multiple reactors from a single parent component
 - globally observe reactor events and states
 
 ---
