@@ -5,7 +5,6 @@
 	/**
 	 * The reactors that are being provided to children components.
 	 */
-
 	/* eslint-disable-next-line @typescript-eslint/no-explicit-any */
 	export let reactors: Reactor<NonNullable<any>, NonNullable<any>>[];
 
