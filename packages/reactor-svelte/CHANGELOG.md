@@ -1,5 +1,11 @@
 # @web-pacotes/reactor-svelte
 
+## 0.0.5
+
+### Patch Changes
+
+- 021be9d: feat(reactor-svelte): add support for providing multiple reactors to child components
+
 ## 0.0.4
 
 ### Patch Changes
