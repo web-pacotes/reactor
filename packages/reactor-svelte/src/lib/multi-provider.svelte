@@ -5,7 +5,9 @@
 	/**
 	 * The reactors that are being provided to children components.
 	 */
-	export let reactors: Reactor<never, never>[];
+
+	/* eslint-disable-next-line @typescript-eslint/no-explicit-any */
+	export let reactors: Reactor<NonNullable<any>, NonNullable<any>>[];
 
 	reactors.forEach(provide);
 </script>
